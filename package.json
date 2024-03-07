@@ -1,6 +1,6 @@
 {
   "name": "@iskaiiii/react-dropdown-date",
-  "version": "2.2.6",
+  "version": "1.0.0",
   "description": "Highly customizable react based date picker. Select date from Day, Month and Year dropdown",
   "license": "MIT",
   "keywords": [
@@ -44,5 +44,6 @@
   "bugs": {
     "url": "https://github.com/ssxv/react-dropdown-date/issues"
   },
-  "homepage": "https://github.com/ssxv/react-dropdown-date"
+  "homepage": "https://github.com/michelleannespanto/react-dropdown-date",
+  "types": "./dist/index.d.ts"
 }

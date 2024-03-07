@@ -1,4 +1,4 @@
-export const monthByNumber = {
+export const monthByNumber: any = {
     0: 'January',
     1: 'February',
     2: 'March',
@@ -28,7 +28,7 @@ export const numberByMonth = {
     December: 11
 };
 
-export const daysInMonth = {
+export const daysInMonth: any = {
     0: 31,
     1: 28,
     2: 31,
